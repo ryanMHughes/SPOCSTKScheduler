@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes" ?>
+<ancillary_model_data version="1.0">
+
+<solar_panel_groups>
+	<solar_panel_group efficiency = "28" name = "FullConfig">
+		<assigned_nodes>
+			XPlus0
+			XPlus1
+			XPlus2
+			XPlus3
+			XPlus4
+			XPlus5
+			XPlus6
+			XMinus0
+			XMinus1
+			XMinus2
+			XMinus3
+			XMinus4
+			XMinus5
+			YMinus0
+			YMinus1
+			YMinus2
+			YMinus3
+			YMinus4
+			YMinus5
+			YMinus6
+			ZMinus0
+			ZMinus1
+		</assigned_nodes>
+	</solar_panel_group>
+</solar_panel_groups>
+</ancillary_model_data>
